@@ -3,6 +3,9 @@
 # Comunidad jointDeveloper
 
 ## Nodebots
+
+![Nodebots](http://nodebots.io/img/equation.png)
+
 #### Learn how to make robots powered by JavaScript
 
 - [Info](http://nodebots.io/)
