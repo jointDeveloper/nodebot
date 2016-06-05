@@ -4,9 +4,11 @@
 
 ## Nodebots
 
-![Nodebots](http://nodebots.io/img/equation.png)
+![Nodebots](https://raw.githubusercontent.com/jointDeveloper/media/master/nodebots/nodebots.png)
 
 #### Learn how to make robots powered by JavaScript
+
+![Nodebots](https://raw.githubusercontent.com/jointDeveloper/media/master/nodebots/equation.png)
 
 - [Info](http://nodebots.io/)
 - [API](http://johnny-five.io/)
